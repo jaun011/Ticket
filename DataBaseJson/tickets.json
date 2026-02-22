@@ -1,0 +1,28 @@
+{
+    "tickets": {
+        "aparencia": {
+            "color": "00FF00",
+            "title": "Solicitar Atendimento",
+            "description": "Solicite aqui seu atendimento privado,caso abra um ticket sem motivo você será expulso!"
+        },
+        "funcoes": {
+            "ATENDIMENTO": {
+                "nome": "ATENDIMENTO",
+                "predescricao": "MANDE SUA DÚVIDA,PROBLEMA OU SUGESTÃO",
+                "emoji": "🔖"
+            }
+        },
+        "messageid": [
+            {
+                "msgid": "1363695981278924901",
+                "channelid": "1363653165198610492",
+                "guildid": "1363652976627028088"
+            },
+            {
+                "msgid": "1363697121168982068",
+                "channelid": "1363653178175782992",
+                "guildid": "1363652976627028088"
+            }
+        ]
+    }
+}

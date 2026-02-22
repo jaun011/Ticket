@@ -1,0 +1,44 @@
+{
+    "Cores": {
+        "Principal": "#00FF00",
+        "Processamento": "#FFA500",
+        "Sucesso": "#008000",
+        "Erro": "#FF0000",
+        "Finalizado": "#7363ff"
+    },
+    "pagamentos": {
+        "MpAPI": "APP_USR-000000000000000-XX...",
+        "BancosBloqueados": [
+            "inter"
+        ],
+        "SemiAutomatico": {
+            "status": true,
+            "pix": "627f721d-d44d-458f-9d82-ded41cdc9642",
+            "msg": "Envie o comprovante e aguarde a entrega"
+        }
+    },
+    "ConfigChannels": {
+        "logpedidos": "1363653174329741394",
+        "eventbuy": "1363653163093201206",
+        "logsticket": "1363653176514973870",
+        "systemlogs": "1363653178175782992",
+        "feedback": "1363653164091314176",
+        "entradas": "1363653171226083529",
+        "saídas": "1363653172698022039",
+        "mensagens": "1363653179530547252",
+        "tráfego": "1363653180948484356"
+    },
+    "ConfigRoles": {
+        "cargoadm": "1363653123142324376",
+        "cargosup": "1363653124564451369",
+        "cargoCliente": "1363653128309969147",
+        "cargomembro": "1365712916451557467"
+    },
+    "Entradas": {
+        "msg": "🎊 **Olá, {member}!** 🎊  \nSeja **muito bem-vindo(a)** ao **{guildname}**!   \n\nEstamos **felizes demais** por ter você aqui! Este é um lugar feito para:  \n🔹 **Compartilhar conhecimento** e informações valiosas  \n🔹 **Conectar-se** com uma comunidade incrível  \n🔹 **Aprender e crescer** junto com a gente  \n\n📌 **Dicas rápidas:**  \n✅ Explore os canais e descubra tudo que oferecemos  \n✅ Respeite as regras para manter o ambiente agradável  \n✅ Interaja, faça perguntas e participe!  \n\nPrecisa de ajuda? **Abra um ticket em** <#1363653165198610492> e nossa equipe te auxiliará!  \n\n💳 **Divirta-se e aproveite sua estadia!** 💳",
+        "tempo": 0,
+        "channelid": [
+            "1363653152913625108"
+        ]
+    }
+}

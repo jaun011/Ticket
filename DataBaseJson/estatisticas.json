@@ -1,0 +1,24 @@
+{
+    "eaf8ab12-6918-45d6-8c85-69e04c9a1947": {
+        "produto": "TELA AMERICANAS",
+        "campo": "TELA AMERICANAS",
+        "quantidade": 1,
+        "valor": 250,
+        "data": 1745714275499,
+        "guild": "1363652976627028088",
+        "userid": "870335081355550730",
+        "id": "1365849187391901696",
+        "idpagamento": "Aprovado Manualmente"
+    },
+    "a72c0801-def3-42a5-8b80-1c51b06228fb": {
+        "produto": "TELA AMERICANAS",
+        "campo": "TELA AMERICANAS",
+        "quantidade": 1,
+        "valor": 250,
+        "data": 1745716198135,
+        "guild": "1363652976627028088",
+        "userid": "870335081355550730",
+        "id": "1365857252430315636",
+        "idpagamento": "Aprovado Manualmente"
+    }
+}
